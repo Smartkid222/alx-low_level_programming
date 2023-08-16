@@ -2,9 +2,9 @@
 
 /**
  * array_iterator - function given as a parameter on each element of an array
- * @array: element 1
- * @action: element 2
- * @size: element 3
+ * @array: element
+ * @action: pointer to the function you need to use
+ * @size: size of array
  * Return: 0
  */
 
